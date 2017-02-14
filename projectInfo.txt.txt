@@ -1,0 +1,2 @@
+This is basic structe for all my projects.
+-------------------------------------------
